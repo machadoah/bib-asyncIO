@@ -1,6 +1,28 @@
 # Bib-asyncIO
 Repositório destinado ao estudo da biblioteca asyncio do python.
 
+## Instalando dependências
+
+Verifique se possui o [Poetry](https://python-poetry.org/) Instalado.
+
+Permita criar os ambientes virtuais no projeto:
+
+```zsh
+poetry config virtualenvs.in-project true
+```
+
+Inicialize o ambiente virtual:
+
+```zsh
+poetry shell
+```
+
+Instale as dependências:
+
+```zsh
+poetry install
+```
+
 ## Sessões
 
 | Sessão  | Titulo                               | Conteúdo                                                      |
